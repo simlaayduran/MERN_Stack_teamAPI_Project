@@ -1,0 +1,56 @@
+.register {
+    height: 100vh;
+    background-image: url("../assets/images/landing_background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* width: 100%; */
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .form-inner {
+      height: 100vh;
+      width: 30%;
+      min-width: 400px;
+      background-color: white;
+      float: right;
+      margin-top: -15px;
+      margin-right: -30px;
+    }
+
+    .logo {
+        height: 10vh;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2vh;
+    }
+
+    .addUserFormWrapper{
+        height: 20vh;
+        padding-top: 5vh;
+        margin: auto;
+        width: 50%;
+        text-align: center;
+    }
+
+    .addUserFormText{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #555;
+        text-decoration: underline;
+        margin-bottom: 3vh;
+        font-weight: lighter;
+
+    }
+
+    .LoginLink{
+        height: 10vh;
+        margin-top: 4vh;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+   
